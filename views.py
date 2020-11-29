@@ -7,6 +7,8 @@ import time
 
 loraURL = 'https://integrations.thethingsnetwork.org/ttn-eu/api/v2/down/innovasjonsprosjekt7/swingbro?key=ttn-account-v2.N6AA0zYmlh0GW1XghgjE0mjIkeX1tfC11WI5SHPMVCw'
 pipeURL = 'https://0a6deea4061ec0559534eb99241ca9ec.m.pipedream.net'
+oasiudhfqoefhlskjdhoq9wefjdhpwehhfks8ye8wef
+asdjhqoefsoidcdcpqwe8hf8w8ehfwuhwekhzsps9d8chwqkøejfh
 loraJson = {
     "dev_id": "innovationproj",
     "port": 1,
