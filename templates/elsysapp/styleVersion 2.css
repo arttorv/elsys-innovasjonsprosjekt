@@ -1,0 +1,231 @@
+*
+{
+    margin: 0;
+    padding: 0%;
+}
+
+
+
+
+/*--Navigation--*/
+
+.nav-link
+{
+    color: black! important;
+    font-weight: 600;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/*--Slider--*/
+#slider
+{
+    width: 100%;
+    
+
+}
+
+.carousel-caption
+{
+    top: top;
+    transform: translateY(-50%);
+    bottom: initial !important;
+}
+
+.carousel-caption h3
+{
+    color: white;
+    font-size: 42px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+/*--Status--*/
+#status
+{   
+    background-size: cover;
+    background-position: center;
+    color: black !important;
+    background-attachment: fixed;
+    padding-top: none;
+    padding-bottom: 750px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#status h1
+{
+    text-align:  center;
+    color: black !important;
+    padding-bottom: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.status
+{
+    margin-top: 40px;
+}
+
+.icon
+{
+    font-size: 40px;
+    margin: 20px auto;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    border: 1 px solid #fff;
+    border-radius: 50%
+        
+}
+
+/*--Åpningstider--*/
+#åpningstider
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+    text-align: center;
+}
+#åpningstider h1
+{
+    text-align:  center;
+    color: black !important;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.about-content-åpningstider
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: right;
+    line-height: 0.9cm;
+}
+
+.imgÅpningstider
+{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+
+/*--Om oss--*/
+#om-oss
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+#om-oss h1
+{
+    text-align:  center;
+    color: black !important;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#about btn
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.about-content
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: right;
+    line-height: 0.9cm;
+}
+
+.imgOmoss
+{
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+/*--Bruas historie--*/
+#bruas-historie
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+#bruas-historie h1
+{
+    text-align:  center;
+    color: black !important;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.about-content-Bruas-historie
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    justify-content: right;
+    line-height: 0.9cm;
+}
+
+.imgHistorie
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+/*--Kontakt oss--*/
+#kontakt-Oss
+{
+    background: beige;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#kontakt-Oss h1
+{
+    text-align:  center;
+    color: black !important;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.contact-form
+{
+    padding: 15px;
+}
+
+.form-control
+{
+    border-radius: 0 !important;
+    border: none !important;
+}
+
+::placeholder
+{
+    color: black !important;
+    
+}
+
+/*--footer--*/
+footer
+{
+    background-color: beige;
+}
